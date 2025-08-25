@@ -19,3 +19,6 @@ The dashboard provides an analytical view of business performance across multipl
 - Donut chart comparing order quantities across:
   - Furniture  
   - Office Supplies  
+  - Technology
+
+### **4. Customer Count (Year-wise)**
