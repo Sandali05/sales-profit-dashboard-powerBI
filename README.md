@@ -8,3 +8,4 @@ The dashboard provides an analytical view of business performance across multipl
 ## 🚀 Key Features
 
 ### **1. Sales by Sub-Category**
+- Funnel chart displaying the top-performing product sub-categories.
