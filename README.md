@@ -22,3 +22,12 @@ The dashboard provides an analytical view of business performance across multipl
   - Technology
 
 ### **4. Customer Count (Year-wise)**
+- Donut chart showing number of unique customers across selected years.
+
+### **5. Total Profit (Gauge Charts)**
+- KPI-style gauges showing:
+  - Total profit for selected filter range
+  - Overall profit for the dataset
+
+### **6. Profit by Sub-Category**
+- Area/line chart showing profit contribution from each product sub-category.
