@@ -31,3 +31,27 @@ The dashboard provides an analytical view of business performance across multipl
 
 ### **6. Profit by Sub-Category**
 - Area/line chart showing profit contribution from each product sub-category.
+
+### **7. Interactive Filters**
+- Category filter (Furniture, Office Supplies, Technology)
+- Year filter (2021–2024)
+- Month filter (Jan–Dec)
+
+---
+
+## 🧩 Files Included
+- `.pbix` Power BI dashboard file
+- README documentation
+- Images/screenshots of the dashboard
+
+---
+
+## 🛠 Tools & Technologies Used
+- **Microsoft Power BI**
+- Data Modeling (DAX, relationships)
+- Interactive Visualizations
+- Custom formatting & color themes
+
+---
+
+## 📂 Project Structure
