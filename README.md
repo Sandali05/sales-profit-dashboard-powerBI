@@ -11,3 +11,4 @@ The dashboard provides an analytical view of business performance across multipl
 - Funnel chart displaying the top-performing product sub-categories.
 - Highlights major contributors like Phones, Chairs, Storage, etc.
 
+### **2. Sales by Month**
