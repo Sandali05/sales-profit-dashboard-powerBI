@@ -15,3 +15,4 @@ The dashboard provides an analytical view of business performance across multipl
 - Monthly bar chart to compare sales trends from January to December.
 - Helps identify seasonal demand patterns.
 
+### **3. Quantity by Category**
