@@ -18,3 +18,4 @@ The dashboard provides an analytical view of business performance across multipl
 ### **3. Quantity by Category**
 - Donut chart comparing order quantities across:
   - Furniture  
+  - Office Supplies  
