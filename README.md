@@ -5,3 +5,4 @@ The dashboard provides an analytical view of business performance across multipl
 
 ---
 
+## 🚀 Key Features
