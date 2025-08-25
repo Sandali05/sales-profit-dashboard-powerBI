@@ -16,3 +16,4 @@ The dashboard provides an analytical view of business performance across multipl
 - Helps identify seasonal demand patterns.
 
 ### **3. Quantity by Category**
+- Donut chart comparing order quantities across:
