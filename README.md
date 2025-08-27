@@ -11,3 +11,5 @@ The dashboard provides an analytical view of business performance across multipl
 - Year-wise and month-wise insight views  
 - Customer distribution and quantity sold metrics  
 - Clean, consistent design with a strong visual theme  
+
+---
