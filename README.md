@@ -10,3 +10,4 @@ The dashboard provides an analytical view of business performance across multipl
 - Performance comparison across product categories and sub-categories  
 - Year-wise and month-wise insight views  
 - Customer distribution and quantity sold metrics  
+- Clean, consistent design with a strong visual theme  
