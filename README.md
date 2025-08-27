@@ -13,3 +13,5 @@ The dashboard provides an analytical view of business performance across multipl
 - Clean, consistent design with a strong visual theme  
 
 ---
+
+## 🧩 Files Included
