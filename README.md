@@ -8,3 +8,4 @@ The dashboard provides an analytical view of business performance across multipl
 ## 🚀 Key Features
 - Interactive visual dashboard for sales and profit analysis  
 - Performance comparison across product categories and sub-categories  
+- Year-wise and month-wise insight views  
