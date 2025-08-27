@@ -16,3 +16,5 @@ The dashboard provides an analytical view of business performance across multipl
 
 ## 🧩 Files Included
 - Power BI `.pbix` file  
+
+---
