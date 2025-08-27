@@ -20,4 +20,4 @@ The dashboard provides an analytical view of business performance across multipl
 ---
 
 ## 🎯 Purpose
-
+- This project helps analyze business performance and supports informed decision-making through interactive metrics and visual insights.
