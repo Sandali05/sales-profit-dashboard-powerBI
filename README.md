@@ -18,3 +18,6 @@ The dashboard provides an analytical view of business performance across multipl
 - Power BI `.pbix` file  
 
 ---
+
+## 🛠 Technologies Used
+- **Microsoft Power BI**
